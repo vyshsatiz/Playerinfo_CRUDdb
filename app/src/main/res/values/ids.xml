@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="posTxt" type="id">post</item>
+    <item name="nameEditTxt" type="id">ed</item>
+    <item name="posEditTxt" type="id">pos</item>
+    <item name="retrieveBtn" type="id">ret</item>
+</resources>
